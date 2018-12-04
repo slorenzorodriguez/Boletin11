@@ -30,7 +30,7 @@ public class Bolwtin11 {
         
         float totalTime = (endTime - startTime)/1000F;
         
-        System.out.println("Has tardado: " + totalTime + " segundos en terminar");
+        System.out.println("Has tardado un total de  " + totalTime + " segundos");
     }
     
 }
